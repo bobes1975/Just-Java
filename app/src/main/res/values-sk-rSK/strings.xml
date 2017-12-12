@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Good ideas start with ...</string>
+    <string name="quantity">Množstvo</string>
+    <string name="order">Objednávka</string>
+    <string name="price">Zhrnutie objednávky</string>
+    <string name="tea">Čaj</string>
+    <string name="chocolate">Čokoláda</string>
+    <string name="toppings">Toping</string>
+    <string name="chocolate_topping">Čokoláda</string>
+    <string name="your_name">Váš email</string>
+    <string name="whipped_cream">Šľahačka</string>
+    <string name="your_choice_coffee">Vaš výber: káva</string>
+    <string name="coffee_order">Objednávka kávy</string>
+    <string name="coffee">Káva</string>
+    <string name="your_choice_tea">Vaša výber: čaj</string>
+    <string name="tea_order">Objednávka čaju</string>
+    <string name="your_choice_choco">Váš výber: čokoláda</string>
+    <string name="choco_order">Objednávka čokolády</string>
+    <string name="thank_you">Ďakujeme.</string>
+    <string name="add_whipped_cream">Pridať šľahačku:</string>
+    <string name="add_chocolade">Pridať čokoládový topping:</string>
+    <string name="quantity_java">Množstvo:</string>
+    <string name="name">Meno:</string>
+    <string name="more_100">Snažíte sa objednať viac ako 100 šálok.</string>
+    <string name="less_100">Snažíte sa objednať menej ako 1 šálku.</string>
+    <string name="coffee_quote">Káva bola vždy významnou súčasťou môjho života. Pre mňa je to šanca začať svoj deň a zbierať svoje myšlienky - to je energia pre môj tvorivý proces.</string>
+    <string name="tea_quote">Čas pitia čaju je príležitosť spomaliť, odtiahnuť sa a oceniť naše okolie.</string>
+    <string name="choco_quote">Nepijem čaj ani kávu. Som ako dieťa: mám rád ovocné šťavy a šumivé nápoje a krémovú horúcu čokoládu.</string>
+    <string name="choco">Čokoláda</string>
+    <string name="Total">Celkom:</string>
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Good ideas start with ...</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="price">Order Summary</string>
+
+    <string name="tea">Tea</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="toppings">Toppings</string>
+    <string name="chocolate_topping">Chocolate</string>
+    <string name="your_name">Your email address</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="_0" translatable="false">5 $</string>
+
+
+
+
+    <string name="your_choice_coffee">Your choice: Coffee</string>
+    <string name="coffee_order">Coffee order</string>
+    <string name="coffee_quote">Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.</string>
+    <string name="coffee">Coffee</string>
+
+    <string name="your_choice_tea">Your choice: Tea</string>
+    <string name="tea_order">Tea order</string>
+    <string name="tea_quote">Tea time is a chance to slow down, pull back and appreciate our surroundings.</string>
+
+
+    <string name="your_choice_choco">Your choice: Chocolade</string>
+    <string name="choco_order">Choco order</string>
+    <string name="choco_quote">I don\'t drink tea or coffee. I\'m like a child: I like fruit juices and sodas and creamy hot chocolate.</string>
+    <string name="choco">Chocolade</string>
+
+
+    <string name="thank_you">Thank You!</string>
+
+    <string name="add_whipped_cream">Add whipped cream: </string>
+    <string name="add_chocolade">Add chocolate topping: </string>
+    <string name="quantity_java">Quantity: </string>
+    <string name="Total">Total: </string>
+
+
+
+
+    <string name="more_100">You tried to order more than 100 cup. </string>
+    <string name="less_100">ou tried to order less than 1 cup. </string>
+
+    <string name="yes">Yes </string>
+    <string name="no">No </string>
+    <string name="name">Name:</string>
+
+</resources>
